@@ -1,2 +1,3 @@
-# C-
-C# Gadget
+## C# Programming Language
+Some Gadgets Created by C#  
+Eg. Game, Calculator...
