@@ -1,15 +1,12 @@
 ## LCM/GCD Finder and Prime Number Finder  
 There are two gadgets in this Winform application: LCM/GCD Finder and Prime Number Finder.  
 
-**1. LCM/GCD Finder**  
-Describe: Given a quadratic equation then the program would find the solutions.
-![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/RootFinderAndFourDigitGame/RootFinder.PNG)   
+**1. Least Common Multiple (LCM) & Greatest Coommon Divisor (GCD) Finder**  
+Describe: Given two integer numbers then the program would find the LCM and GCD of the numbers.    
+![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/LCM%26GCDAndPrimeNumberFinder/LCM%26GCDFinder.PNG)   
 
 **2. Prime Number Finder**  
-How to play?  
-Click the "New Game" Button to Start a new game. Input a four-digit number, then the textbox below would show you the outcome.  
-A: guessing digit matches the value of the correct digit in the same position  
-B: guessing digit matches one correct digit, but in the wrong position  
-![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/RootFinderAndFourDigitGame/FourDigitGame.PNG)  
+Describe: Given a number then the textbox would show a list of prime numbers smaller than the limit.  
+![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/LCM%26GCDAndPrimeNumberFinder/PrimeNumberFinder.PNG)  
 
-[AppLink](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/RootFinderAndFourDigitGame/RootFinderAndFourDigitGame.exe) 
+[AppLink](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/LCM%26GCDAndPrimeNumberFinder/LCM%26GCDAndPrimeNumberFinder.exe) 
