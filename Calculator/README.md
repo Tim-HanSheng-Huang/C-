@@ -4,5 +4,5 @@
 
 Describe: Scientific Claculator Winform Application
 
-[GameLink](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/Calculator/Calculator.exe) 
+[CalculatorLink](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/Calculator/Calculator.exe) 
 
