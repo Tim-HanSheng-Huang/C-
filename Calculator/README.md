@@ -2,7 +2,7 @@
  
 ![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/Calculator/Calculator.PNG)  
 
-Describe: Scientific Claculator Winform Application
+Description: Scientific Claculator Winform Application
 
 [CalculatorLink](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/Calculator/Calculator.exe) 
 
