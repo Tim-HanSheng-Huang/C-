@@ -2,7 +2,7 @@
 There are two gadgets in this Winform application: Root Finder and Four-Digit Game.  
 
 **1. Root Finder**  
-Describe: Given a quadratic equation then the program would find the solutions.
+Description: Given a quadratic equation then the program would find the solutions.
 ![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/RootFinderAndFourDigitGame/RootFinder.PNG)   
 
 **2. Four-Digit Guessing Game**  
