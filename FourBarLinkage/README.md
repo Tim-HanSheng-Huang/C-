@@ -2,6 +2,6 @@
 
 Description: Display four-bar linkage graphically
 
-![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/LEDPlayer/LEDPlayer.PNG)  
+![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/FourBarLinkage/FourBarLinkage.PNG)  
 
-[LEDPlayerLink](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/LEDPlayer/LEDPlayer.exe) 
+[AppLink](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/FourBarLinkage/FourBarLinkage.exe) 
