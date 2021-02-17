@@ -1,5 +1,5 @@
 ## Mine Sweep Game  
 
-![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/FourBarLinkage.PNG)  
+![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/MineSweepGame/MineSweepGame.PNG)  
 
-[LEDPlayerLink](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/LEDPlayer/LEDPlayer.exe) 
+[AppLink](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/MineSweepGame/MineSweepGame.exe) 
