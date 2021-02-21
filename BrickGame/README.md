@@ -1,4 +1,4 @@
-## Brick Game  
+## Brick Game (Breakout Clone)  
 
 ![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/BrickGame/BrickGame.PNG)  
 
