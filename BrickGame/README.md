@@ -1,5 +1,5 @@
 ## Brick Game  
 
-![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/MineSweepGame/MineSweepGame.PNG)  
+![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/BrickGame/BrickGame.PNG)  
 
-[MinesweeperLink](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/MineSweepGame/MineSweepGame.exe) 
+[MinesweeperLink](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/BrickGame/BrickGame.exe) 
