@@ -1,3 +1,3 @@
 ## C# Programming Language
-Some Gadgets Created by C#  
+Some Gadgets and Homework Created by C#  
 Eg. Game, Calculator...
