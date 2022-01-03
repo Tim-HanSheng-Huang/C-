@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HSHuangGALibrary</name>
+    </assembly>
+    <members>
+        <member name="M:HSHuangGALibrary.BinaryGA.#ctor(System.Int32,HSHuangGALibrary.OptimizationType,HSHuangGALibrary.ObjectiveFunction{System.Byte},System.Windows.Forms.Panel)">
+            <summary>
+            Create a Binary GA Solver
+            </summary>
+            <param name="numberOFVariables"></param>
+            <param name="optimizationType"></param>
+            <param name="objectiveFunction">The delegate to the objective function</param>
+        </member>
+        <member name="F:HSHuangGALibrary.GAMonitor`1.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HSHuangGALibrary.GAMonitor`1.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:HSHuangGALibrary.GAMonitor`1.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:HSHuangGALibrary.GenericGASolver`1.objectives">
+            <summary>
+            objective value array of the objective function
+            </summary>
+        </member>
+        <member name="F:HSHuangGALibrary.GenericGASolver`1.fitnessValues">
+            <summary>
+            fitness value array of GA (Not objective value of the objective function)
+            </summary>
+        </member>
+        <member name="P:HSHuangGALibrary.GenericGASolver`1.PopulationSize">
+            <summary>
+            Specity the populationsize of GA
+            </summary>
+        </member>
+        <member name="P:HSHuangGALibrary.GenericGASolver`1.CrossoverRate">
+            <summary>
+            Specity the crossoverrate of GA
+            </summary>
+        </member>
+        <member name="P:HSHuangGALibrary.GenericGASolver`1.MutationRate">
+            <summary>
+            Specity the mutation of GA
+            </summary>
+        </member>
+        <member name="P:HSHuangGALibrary.GenericGASolver`1.IterationLimit">
+            <summary>
+            Specity the stopping criteria of GA
+            </summary>
+        </member>
+        <member name="P:HSHuangGALibrary.GenericGASolver`1.MutationType">
+            <summary>
+            Specity the mutation type of GA
+            </summary>
+        </member>
+        <member name="P:HSHuangGALibrary.GenericGASolver`1.SelectionType">
+            <summary>
+            Specity the selection type of GA
+            </summary>
+        </member>
+        <member name="M:HSHuangGALibrary.GenericGASolver`1.#ctor(System.Int32,HSHuangGALibrary.OptimizationType,HSHuangGALibrary.ObjectiveFunction{`0},System.Windows.Forms.Panel)">
+            <summary>
+            Generic GA Solver 
+            </summary>
+            <param name="numberOFVariables"> Number of GA Genes in one Chromosome </param>
+            <param name="optimizationType"> Minimazation or Maximazation Problem </param>
+            <param name="objectiveFunction"> Customed ObjectiveFunction By Situation </param>
+        </member>
+        <member name="M:HSHuangGALibrary.GenericGASolver`1.Reset">
+            <summary>
+            reset the parameters
+            </summary>
+        </member>
+        <member name="M:HSHuangGALibrary.GenericGASolver`1.InitializePopulation">
+            <summary>
+            Initialize the population 
+            </summary>
+        </member>
+        <member name="M:HSHuangGALibrary.GenericGASolver`1.RunOneIteration">
+            <summary>
+            Run one iteration of GA
+            </summary>
+        </member>
+        <member name="M:HSHuangGALibrary.GenericGASolver`1.RunToEnd">
+            <summary>
+            Run until stopping criteria is satisfied
+            </summary>
+        </member>
+        <member name="T:HSHuangGALibrary.PermutationCrossoverOperator">
+            <summary>
+            Canonical crossover operator
+            </summary>
+        </member>
+        <member name="T:HSHuangGALibrary.RealNumerEncodedGA">
+            <summary>
+            XXXXX
+            </summary>
+        </member>
+        <member name="M:HSHuangGALibrary.RealNumerEncodedGA.#ctor(System.Int32,System.Double[],System.Double[],HSHuangGALibrary.OptimizationType,HSHuangGALibrary.ObjectiveFunction{System.Double},System.Windows.Forms.Panel)">
+            <summary>
+            
+            </summary>
+            <param name="numberOFVariables"></param>
+            <param name="lowerBounds"></param>
+            <param name="upperBounds"></param>
+            <param name="optimizationType"></param>
+            <param name="objectiveFunction"></param>
+            <param name="hostPanelForMonitor"></param>
+        </member>
+    </members>
+</doc>
