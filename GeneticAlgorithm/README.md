@@ -10,7 +10,7 @@ and "[execution file (.exe)](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/
 2. Open the .exe file and click an encoding method. 
 ![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/GeneticAlgorithm/GA_Solver_JobAssignment_1.PNG)
   
-3. Click the "Reset" button and adjust the parameters of GA, such as crossoverrate, or mutation rate.
+3. Click the "Reset" button and adjust the parameters of GA, such as crossover rate, or mutation rate.
 ![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/GeneticAlgorithm/GA_Solver_JobAssignment_2.PNG)
   
 4. Click the "Run One Iteration" button to see the outcome after one iteration or click "Run to End" button to see the final outcome. 
