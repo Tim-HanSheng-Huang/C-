@@ -11,7 +11,7 @@ Given a finite set O of numbers (the object sizes), and two constants B (the bin
 1. Download the "[testing files (.txt)](https://github.com/Tim-HanSheng-Huang/C_Sharp/tree/main/BinPackingSolver/TestingFiles)"
 and "[execution file (.exe)](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/BinPackingSolver/R09725060HSHunagBinPacking.exe)".
 
-2. Open the .exe file and click file and open button at the top left corner to import the testing files. 
+2. Open the .exe file and click the File and Open button at the top left corner to import the testing files. 
 ![image](https://github.com/Tim-HanSheng-Huang/C_Sharp/blob/main/BinPackingSolver/BPP_Image_1.png)
   
 3. After importing testing files, select the "First Fit Solver" tab.
